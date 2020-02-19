@@ -32,26 +32,7 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES
 ;
 
 INSERT INTO users (name, age) VALUES 
-(), 
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-(),
-()
+["Albus", 113, 470], ["Alex", 33, 20], ["Amanda", 24, 40], ["Bear", 6, 50], ["Ena", 24, 100], ["Finnebar", 17, 70], ["Franz", 100, 90], ["Hermione", 30, 50], ["Iguana", 4, 10], ["Katie", 24, 170], ["Marisa", 24, 24], ["Pacha", 5, 60], ["Rosey", 9, 50], ["Sirius", 36, 19], ["Sophie", 24, 60], ["Squid", 5, 270], ["Swizzle", 4, 12], ["Victoria", 23, 1700], ["Voldemort", 90, 34], ["Whale", 6, 125.5]
 ;
 
 INSERT INTO projects ( title, category, funding_goal, start_date, end_date) VALUES
